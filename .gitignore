@@ -11,3 +11,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /Franklin_garcia_lab8/nbproject/private/
+/Lab8/VoiceRecognizer/build/
+/Lab8/VoiceRecognizer/nbproject/private/
+/Franklin_garcia_lab8/Lab8/VoiceRecognizer/build/
+/Franklin_garcia_lab8/Lab8/VoiceRecognizer/nbproject/private/
